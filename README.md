@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Rafael Schuinki! 👋
 
-<!--
-**inoa-rfschuinki/inoa-rfschuinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64516904/139563965-03700b65-6b5d-452f-9b2d-fe927e1ed555.gif" width="400" alt="Seto Kaiba"/>
+  <br>
+  <i>"Insolent fools... I rule the digital realm!"</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏛️ About Me
+
+* 🎓 **Education:** Senior Software Engineering student at **IME (Instituto Militar de Engenharia)**, graduating this year (2026)!
+* 💼 **Current Role:** Software Engineering Intern at **Inoa**.
+* 🔄 **Internal Evolution:** Started at the *Portfolio Solutions* cell, which spun off into **Obligations Solutions**. 
+* 🛠️ **What I do:** Maintained and developed the **AT-Compliance** module, and currently migrating to the **BrokerTools** ecosystem.
+
+---
+
+### 📜 Certifications & Continuous Learning
+
+I thrive on learning different areas of technology and finance:
+
+* 📈 **ANBIMA CPA** (Certificado Profissional Anbima)
+* ☁️ **AWS Certified Cloud Practitioner**
+* 📚 *Currently studying and preparing for upcoming challenges in multiple fields!*
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Technology | Role / Status |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> | **Primary Language** (Daily driver for backend) |
+| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> | **Leveling Up** (Currently mastering for architecture) |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> | **Cloud Infrastructure** (Certified Practitioner) |
+| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> | **Version Control** |
+
+---
+
+### 🧠 Coding Challenges
+
+* 🥷 **LeetCode:** Track my problem-solving journey and algorithms progress at [leetcode.com/u/Schuinki](https://leetcode.com/u/Schuinki)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.com/api?username=Schuinki&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schuinki&layout=compact&theme=dark" height="150" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/rafael-schuinki)
+* 📧 Email: [rfschuinki@inoa.com.br](mailto:rfschuinki@inoa.com.br)
+
+"Screw the rules, I have code!" 🃏
