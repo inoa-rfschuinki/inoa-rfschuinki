@@ -1,9 +1,10 @@
 # Hi there, I'm Rafael Schuinki! 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64516904/139563965-03700b65-6b5d-452f-9b2d-fe927e1ed555.gif" width="400" alt="Seto Kaiba"/>
+  <img src="https://media1.tenor.com/m/UKcC82TH3KwAAAAd/akashi-akashi-seijuro.gif" alt="Akashi Seijuro" />
   <br>
-  <i>"Insolent fools... I rule the digital realm!"</i>
+  <br>
+  <i>"I am absolute."</i> 👁️‍🗨️
 </p>
 
 ---
@@ -41,15 +42,6 @@ I thrive on learning different areas of technology and finance:
 ### 🧠 Coding Challenges
 
 * 🥷 **LeetCode:** Track my problem-solving journey and algorithms progress at [leetcode.com/u/Schuinki](https://leetcode.com/u/Schuinki)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.com/api?username=Schuinki&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schuinki&layout=compact&theme=dark" height="150" alt="Top Languages" />
-</p>
 
 ---
 
