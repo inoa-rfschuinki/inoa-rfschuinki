@@ -1,8 +1,9 @@
 # Hi there, I'm Rafael Schuinki! 👋
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/UKcC82TH3KwAAAAd/akashi-akashi-seijuro.gif" alt="Akashi Seijuro" />
+  <img src="https://c.tenor.com/JsD5D2E89EoAAAAd/tenor.gif" width="320" height="317">
 </p>
+
 
 ---
 
