@@ -45,6 +45,4 @@ I thrive on learning different areas of technology and finance:
 ### 🤝 Connect with me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/rafael-schuinki)
-* 📧 Email: [rfschuinki@inoa.com.br](mailto:rfschuinki@inoa.com.br)
-
-"Screw the rules, I have code!" 🃏
+* 📧 Email: [rfschuinki@inoa.com.br]
