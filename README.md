@@ -2,9 +2,6 @@
 
 <p align="center">
   <img src="https://media1.tenor.com/m/UKcC82TH3KwAAAAd/akashi-akashi-seijuro.gif" alt="Akashi Seijuro" />
-  <br>
-  <br>
-  <i>"I am absolute."</i> 👁️‍🗨️
 </p>
 
 ---
